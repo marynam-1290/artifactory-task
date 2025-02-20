@@ -42,8 +42,11 @@
 
     <dependencies>
 
-        <!--My dependency-->
-        <!--Write code here-->
+        <dependency>
+           <groupId>org.artifactory</groupId>
+           <artifactId>firstpack</artifactId>
+           <version>1.6</version>
+       </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
